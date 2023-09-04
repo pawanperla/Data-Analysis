@@ -63,4 +63,4 @@ cd data-analysis
 jupyter notebook
 ```
 
-4. Open and explore the notebooks (`PANDAS.ipynb`,MATPLOTLIB.ipynb) to learn about data analysis and visualisation techniques.
+4. Open and explore the notebooks (`PANDAS.ipynb`,`MATPLOTLIB.ipynb`) to learn about data analysis and visualisation techniques.
