@@ -26,9 +26,9 @@ Data analysis is a crucial step in deriving insights and making informed decisio
 
 ## Notebook Descriptions
 
-- [`pandas.ipynb`](pandas.ipynb): This notebook covers data manipulation and analysis using Pandas. Topics include data loading, cleaning, filtering, grouping, and basic statistical analysis.
+- [`pandas.ipynb`](PANDAS.ipynb): This notebook covers data manipulation and analysis using Pandas. Topics include data loading, cleaning, filtering, grouping, and basic statistical analysis.
 
-- [`matplotlib.ipynb`](matplotlib.ipynb): This notebook focuses on data visualization using Matplotlib. It demonstrates how to create various types of plots, such as bar charts, scatter plots, line graphs, and more.
+- [`matplotlib.ipynb`](MATPLOTLIB.ipynb): This notebook focuses on data visualization using Matplotlib. It demonstrates how to create various types of plots, such as bar charts, scatter plots, line graphs, and more.
 
 ## Requirements
 
@@ -65,43 +65,4 @@ cd data-analysis
 jupyter notebook
 ```
 
-4. Open and explore the notebooks (`pandas.ipynb` and `matplotlib.ipynb`) to learn about data analysis and visualization techniques.
-
-## Contributing
-
-If you would like to contribute to this repository by adding more notebooks, improving existing code, or fixing issues, please follow these steps:
-
-1. Fork the repository to your GitHub account.
-
-2. Clone your forked repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/data-analysis.git
-```
-
-3. Create a new branch for your work:
-
-```bash
-git checkout -b feature/add-new-notebook
-```
-
-4. Make your changes and commit them:
-
-```bash
-git add .
-git commit -m "Add new notebook: [Notebook Name]"
-```
-
-5. Push your changes to your GitHub repository:
-
-```bash
-git push origin feature/add-new-notebook
-```
-
-6. Create a pull request from your forked repository to the original repository.
-
-7. Wait for feedback and approval. Once approved, your changes will be merged into the main repository.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use and modify the code as needed.
+4. Open and explore the notebooks (`PANDAS.ipynb`) to learn about data analysis and visualization techniques.
